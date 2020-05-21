@@ -124,7 +124,7 @@ public class Main {
                     }
                 }
 
-                for (int i = 0; i < resultArray.length; i++) {//подставляем в массив resultArray (загаданое слово) слово, которое ввёл пользователь и записываем совпавшие символы
+                for (int i = 0; i < resultArray.length; i++) {//подставляем в массив resultArray (загаданое слово) слово, которое ввёл пользователь и записываем совпавшие символы.
                     System.out.print(resultArray[i]);
                 }
                 System.out.println();
